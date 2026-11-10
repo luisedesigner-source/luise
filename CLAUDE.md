@@ -18,3 +18,4 @@ Este repositório é o site no ar da Luise. Ela pede as mudanças no chat; quem 
 ## Antes de publicar
 - Conferir em 1440 px e 390 px (Playwright): nada pode passar da largura da tela.
 - Mostrar à Luise e só dar push na `main` com o ok dela; o push publica o site.
+- Texto do site: sem travessão (—), linguagem natural.
