@@ -3,7 +3,7 @@
 Este repositório é o site no ar da Luise. Ela pede as mudanças no chat; quem edita e publica é o Claude.
 
 ## Regras da marca (não quebrar)
-- Logo: `img/logo.png` (versão redonda, texto branco sobre círculo colorido). Usar só esta.
+- Logo: no topo `img/logo-texto.png` (sem a bolinha, a pedido da Luise); no rodapé `img/logo.png` (versão redonda). Não usar outras.
 - Cores (tokens em `css/style.css`, `:root`): creme #FFF8F1 (fundo), marrom #4A332B (texto), coral #F6997B, areia #F4D79E, pêssego #F4CEB0, azul #C7DDE1. **Nunca usar preto.**
 - Fontes: Antonio (títulos, caixa alta, mistura de peso 700 com 100/200) e Quicksand (texto).
 - Nome: Luise (L-U-I-S-E), nunca "Louise".
