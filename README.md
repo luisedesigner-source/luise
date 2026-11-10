@@ -7,4 +7,4 @@ Site/portfólio da Luise Designer (Goiânia-GO). HTML + CSS puros, sem build.
 - `fonts/`: Antonio e Quicksand (licença OFL), hospedadas no próprio site
 - `img/`: logo, fotos, ícones e `img/projetos/` com as capas dos projetos
 
-Publicado com GitHub Pages a partir da branch `main`.
+Publicado com GitHub Pages a partir da branch `main`, no domínio https://luisedesigner.com (DNS na Cloudflare, registros "DNS only").
