@@ -156,11 +156,12 @@ p{margin:0}
 .depo .wrap{padding-bottom:104px;display:flex;flex-direction:column;gap:40px}
 .depo__titulo{display:flex;align-items:center;gap:16px}
 .depo__titulo svg{width:58px;height:58px;flex:none}
-.citacoes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;padding:0 6px}
-.citacao{margin:0;border-radius:28px;padding:32px;display:flex;flex-direction:column;gap:22px}
+.citacoes{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px;padding:0 6px}
+.citacao{margin:0;border-radius:28px;padding:28px;display:flex;flex-direction:column;gap:22px}
 .citacao:nth-child(1){background:var(--pessego);transform:rotate(-1.2deg)}
 .citacao:nth-child(2){background:var(--areia);transform:rotate(.8deg)}
 .citacao:nth-child(3){background:var(--azul);transform:rotate(-.6deg)}
+.citacao:nth-child(4){background:var(--coral);transform:rotate(1deg)}
 .citacao svg{width:40px;height:32px}
 .citacao blockquote{margin:0;font-size:17px;line-height:1.6;flex-grow:1}
 .citacao figcaption{display:flex;align-items:center;gap:12px;font-size:14px}
