@@ -165,6 +165,7 @@ p{margin:0}
 .citacao blockquote{margin:0;font-size:17px;line-height:1.6;flex-grow:1}
 .citacao figcaption{display:flex;align-items:center;gap:12px;font-size:14px}
 .citacao figcaption b{display:block;font-size:15px}
+.avatar{width:56px;height:56px;border-radius:50%;object-fit:cover;border:3px solid var(--creme);flex:none}
 .inicial{width:46px;height:46px;border-radius:999px;background:var(--creme);display:inline-flex;align-items:center;justify-content:center;font-family:var(--t);font-weight:700;font-size:20px;flex:none}
 
 /* sobre */
